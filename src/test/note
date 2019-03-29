@@ -1,0 +1,6 @@
+1.在配置完成后，一定要手动导入   mysql-connector-java-8.0  包
+
+2.@Data  注解的使用
+    需要在IDEA中添加LOMBOK插件（https://blog.csdn.net/seapeak007/article/details/72911529）
+
+3.@Autowired自动装配的目标类需要被@controller @service @component 注释
